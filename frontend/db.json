@@ -1,0 +1,53 @@
+{
+  "rezervacije": [
+    {
+      "datum": 1612047600000,
+      "pocetak": 15,
+      "kraj": 16,
+      "tretman": "feniranje",
+      "id": 4
+    },
+    {
+      "datum": 1611920011000,
+      "pocetak": 10,
+      "kraj": 11,
+      "tretman": "šišanje",
+      "id": 7
+    },
+    {
+      "datum": 1611961200000,
+      "pocetak": 13,
+      "kraj": 14,
+      "tretman": "feniranje",
+      "id": 13
+    },
+    {
+      "datum": 1612012881000,
+      "pocetak": 10,
+      "kraj": 11,
+      "tretman": "svečana frizura",
+      "id": 15
+    },
+    {
+      "datum": 1612012881000,
+      "pocetak": 10,
+      "kraj": 11,
+      "tretman": "pramenovi",
+      "id": 16
+    },
+    {
+      "datum": 1612012881000,
+      "pocetak": 10,
+      "kraj": 11,
+      "tretman": "šišanje",
+      "id": 17
+    },
+    {
+      "datum": 1613084400000,
+      "pocetak": 11,
+      "kraj": 12,
+      "tretman": "šišanje i bojanje",
+      "id": 18
+    }
+  ]
+}
